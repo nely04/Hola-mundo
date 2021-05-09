@@ -1,5 +1,5 @@
 # Hola-mundo
-Mi primer repositorio
+Mi primer 
 
-Autor:Nancy L.
+Autor:Nancy L.C
 Fecha: 9 de mayo
