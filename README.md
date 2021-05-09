@@ -1,5 +1,5 @@
 # Hola-mundo
-Mi primer repositorio de prueba
+Mi primer repositorio
 
 Autor:Nancy L.
 Fecha: 9 de mayo
